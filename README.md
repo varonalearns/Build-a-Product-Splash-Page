@@ -35,7 +35,13 @@ Happy Coding!
 ## Overview
 
 ### What will be learned
-
+- Responsive challenges
+- Transform text
+- Viewport units
+- Style form elements
+- Flexbox order
+- Modifier classes
+- Box-sizing
 
 ### Screenshot
 
@@ -44,8 +50,8 @@ Happy Coding!
 
 ### Links
 
-- Solution URL: [Github Repo]()
-- Live Site URL: [Netlify Live Site]()
+- Solution URL: [Github Repo](https://github.com/varonalearns/Build-a-Product-Splash-Page)
+- Live Site URL: [Netlify Live Site](https://peaceful-lebkuchen-95e6fa.netlify.app)
 
 ## Author
 
